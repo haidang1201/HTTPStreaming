@@ -1,6 +1,8 @@
 # HTTPStreaming
 An adaptive streaming system with a HTTP server and multiple clients based on nghttp2
-Source Code structure
+
+Network topology
+![alt text](https://github.com/haidang1201/HTTPStreaming/blob/main/Topology.png)
 
 
 How to perform experiments?
