@@ -2,6 +2,8 @@
 An adaptive streaming system with a HTTP server and multiple clients based on nghttp2
 
 Network topology
+
+
 ![alt text](https://github.com/haidang1201/HTTPStreaming/blob/main/Topology.png)
 
 
