@@ -7,10 +7,10 @@ Network topology
 ![alt text](https://github.com/haidang1201/HTTPStreaming/blob/main/Topology.png)
 
 Source code structure <br />
-	--Server: [a link](https://github.com/haidang1201/HTTPStreaming/blob/main/Source%20Code/testbed/Server/server_KPush.cpp)
+	--Server: [server_KPush.cpp](https://github.com/haidang1201/HTTPStreaming/blob/main/Source%20Code/testbed/Server/server_KPush.cpp)
 : create a HTTP server that can push video segment to the clients periodically. <br />
-	--Clients: nghttp2: modified version of nghttp2 which is employed an adaptive algorithm to dynamically decide video qualities and send HTTP requests to the server <br />
-	--Network: topology.py: create the network topology, simulate the bandwidth fluctuation.<br />
+	--Clients: [nghttp2](https://github.com/haidang1201/HTTPStreaming/tree/main/Source%20Code/testbed/nghttp2): modified version of nghttp2 which is employed an adaptive algorithm to dynamically decide video qualities and send HTTP requests to the server <br />
+	--Network: [topology.py](https://github.com/haidang1201/HTTPStreaming/blob/main/Source%20Code/testbed/topology.py): create the network topology, simulate the bandwidth fluctuation.<br />
 
 
 How to perform experiments?
