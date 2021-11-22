@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: python-nghttp2
+Version: 1.16.0.dev0
+Summary: Python HTTP/2 library on top of nghttp2
+Home-page: https://nghttp2.org/
+Author: Tatsuhiro Tsujikawa
+Author-email: tatsuhiro.t@gmail.com
+License: UNKNOWN
+Description: TBD
+Platform: UNKNOWN

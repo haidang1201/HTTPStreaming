@@ -1,0 +1,6 @@
+nghttp2.c
+setup.py
+python_nghttp2.egg-info/PKG-INFO
+python_nghttp2.egg-info/SOURCES.txt
+python_nghttp2.egg-info/dependency_links.txt
+python_nghttp2.egg-info/top_level.txt
