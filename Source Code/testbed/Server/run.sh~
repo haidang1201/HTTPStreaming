@@ -1,1 +1,0 @@
-g++ KPush_v5.cpp -lnghttp2_asio -lboost_system -std=c++11 -lssl -l
