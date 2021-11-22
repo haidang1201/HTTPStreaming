@@ -8,7 +8,7 @@ Network topology
 
 Source code structure <br />
 	--Server: server_KPush.cpp: create a HTTP server that can push video segment to the clients periodically. <br />
-	--Clients: nghttp2: modified version of nghttp2 which is employed an adaptive algorithm to dynamically decide video qualities and send HTTP request to the server <br />
+	--Clients: nghttp2: modified version of nghttp2 which is employed an adaptive algorithm to dynamically decide video qualities and send HTTP requests to the server <br />
 	--Network: topology.py: create the network topology, simulate the bandwidth fluctuation.<br />
 
 
